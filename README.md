@@ -10,5 +10,12 @@ Across the Great Wall we can reach every corner in the world.
 
 ![GFW](https://wanszezit.files.wordpress.com/2010/04/capture.png)
 
+## 为什么要翻墙
+待补充。
+
+## 翻墙软件及下载
+### Windows
+* [shadowshocks]()
+
 
 
